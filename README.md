@@ -11,3 +11,4 @@ data file: https://drive.google.com/file/d/1JQ3iVLRvR4OJasantsz2UBXT2WXaW3Ft/vie
    hadoop jar output.jar Max Ep.txt result_max
    hadoop fs -cat result_max/part-r-00000
 ```
+mapper 篩選、加總送給reducer
